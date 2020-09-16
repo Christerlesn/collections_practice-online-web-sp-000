@@ -22,5 +22,5 @@ def reverse_array(integers)
 end
 
 #def kesha_maker(array)
-  array[2] == $
-end
+#  array[2] == $
+#end
